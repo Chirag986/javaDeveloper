@@ -1,0 +1,16 @@
+*.*~
+*.pdf
+twitterAuthentication.txt
+toaesWebscrape/*.txt
+toaesWebscrape/*.html
+toaesWebscrape/*.pyc
+MLBAnalysis/baseballDatabank/*
+MLBAnalysis/img/*
+otherPeoplesExamples/*
+chicagoCrimes2016/crimesByNeighborhood/*
+chicagoCrimes2016/*.csv
+chicagoCrimes2016/*.png
+chicagoCrimes2016/*/*.png
+imageFlattener/img/*
+betterSimulation/data/*
+**/.ipynb_checkpoints/*
